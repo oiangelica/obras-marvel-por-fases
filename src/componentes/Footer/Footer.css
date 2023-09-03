@@ -1,0 +1,25 @@
+.footer{ 
+    align-items: center;
+    background-color:#E20915;
+    color: #fca9a9;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 3rem;
+}
+.footer a{ 
+    color: #fff;    
+    text-decoration: none;
+}
+
+.footer .icons-redes { 
+    height:30px ;
+    padding: 1rem;
+    width: 30px;   
+}
+
+.footer-img {
+    height: 50px;
+    width: 200px;
+    
+}
